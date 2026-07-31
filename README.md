@@ -44,5 +44,3 @@ For at være tro mod datagrundlaget afgrænser rapporten eksplicit sit scope: de
 
 - `bike_sales_analysis.xlsx` — projektfil med Power Query-trin og pivottabeller
 - `rapport.pdf` — analyserapport med bilag (fuld validering og metode)
-
-*(Ret filnavnene til dem, du faktisk lægger op.)*
