@@ -1,6 +1,6 @@
 ## Cykelsalgsanalyse – Excel (Power Query)
 
-Analyse af et offentligt datasæt på **113.036 ordrelinjer** med fokus på ét spørgsmål: *hvor kan en cykelforhandler øge profitten ved at fokusere på de rigtige produkter, kundegrupper og markeder?* Projektets kerne er lige så meget **kildekritisk datavalidering** som selve analysen — flere fund begrænsede, hvilke spørgsmål data overhovedet kunne besvare.
+Analyse af et offentligt datasæt på **113.036 ordrelinjer** med fokus på ét spørgsmål: *hvordan kan virksomheden øge profitten ved at fokusere på de rigtige produkter, kundegrupper og markeder?* Projektets kerne er lige så meget **kildekritisk datavalidering** som selve analysen — flere fund begrænsede, hvilke spørgsmål data overhovedet kunne besvare.
 
 **Værktøjer:** Excel · Power Query · pivottabeller
 
