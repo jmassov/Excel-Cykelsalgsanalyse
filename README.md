@@ -42,6 +42,8 @@ For at være tro mod datagrundlaget afgrænser rapporten eksplicit sit scope: de
 
 ## Dashboard
 
+![Dashboard](IMG/Dashboard.png)
+
 ## Filer i dette repo
 
 - `bike_sales_analysis.xlsx` — projektfil med Power Query-trin og pivottabeller
