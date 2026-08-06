@@ -40,6 +40,8 @@ En metodenote i rapporten dokumenterer også en faldgrube: Power Query profilere
 
 For at være tro mod datagrundlaget afgrænser rapporten eksplicit sit scope: den kan **ikke** udtale sig om udvikling over tid, sæsonmønstre, år-til-år-vækst, gennemsnitlig ordreværdi, kundeantal eller kundeloyalitet — og absolutte kronebeløb angives med forbehold. Datasættet er egnet til **strukturelle sammenligninger** på tværs af produkter, kundegrupper og markeder, fordi disse er egenskaber ved den enkelte ordrelinje og derfor upåvirkede af, at årene ikke er uafhængige.
 
+## Dashboard
+
 ## Filer i dette repo
 
 - `bike_sales_analysis.xlsx` — projektfil med Power Query-trin og pivottabeller
